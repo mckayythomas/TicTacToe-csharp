@@ -17,7 +17,7 @@ The project was implemented in C#, a versatile and object-oriented programming l
 # Useful Websites
 
 - [Microsoft Docs](https://docs.microsoft.com/en-us/dotnet/csharp/) - Official documentation for C# programming language.
-- [W3Schools C#]([https://stackoverflow.com/](https://www.w3schools.com/cs/index.php)) - Easy to follow tutorial for learning the basics of the C# language
+- [W3Schools C#](https://www.w3schools.com/cs/index.php) - Easy-to-follow tutorial for learning the basics of the C# language
 - [Visual Studio Basics](https://visualstudio.microsoft.com/vs/getting-started/) - Visual Studio basics as it can be a complicated IED
 
 # Future Work
